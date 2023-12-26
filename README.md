@@ -1,2 +1,2 @@
-# adult-data-
-jupyter adult file data preparation and preprocessing 
+# adult-data and using pyton panda 
+jupyter notebook use adult file data preparation and preprocessing  
